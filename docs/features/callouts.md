@@ -16,7 +16,7 @@ This includes
 > This is a callout!
 ```
 
-See [documentation on supported types and syntax here](https://help.obsidian.md/Editing+and+formatting/Callouts).
+See [documentation on supported types and syntax here](https://help.obsidian.md/Editing+and+formatting/Callouts).
 
 > [!warning]
 > Wondering why callouts may not be showing up even if you have them enabled? You may need to reorder your plugins so that [[ObsidianFlavoredMarkdown]] is _after_ [[SyntaxHighlighting]].

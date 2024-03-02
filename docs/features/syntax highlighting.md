@@ -61,7 +61,7 @@ export function trimPathSuffix(fp: string): string {
 
 ### Line highlighting
 
-Place a numeric range inside `{}`.
+Place a numeric range inside `{}`.
 
 ````
 ```js {1-3,4}
@@ -97,7 +97,7 @@ const [name, setName] = useState("Taylor")
 
 ### Line numbers
 
-Syntax highlighting has line numbers configured automatically. If you want to start line numbers at a specific number, use `showLineNumbers{number}`:
+Syntax highlighting has line numbers configured automatically. If you want to start line numbers at a specific number, use `showLineNumbers{number}`:
 
 ````
 ```js showLineNumbers{number}

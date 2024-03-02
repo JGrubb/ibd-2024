@@ -1,0 +1,29 @@
+---
+title: So yeah, I got a job.
+date: 2013-01-08
+tags: 
+  - life
+alias: 150-so-yeah-i-got-job
+---
+
+I love this blog. It's amazing how much I used to write. I was so young and so passionate! My ego was totally huge! I had no idea how much of a ride I was really in for! It's a good thing, too!!
+
+So yeah. I got a job. I've been bouncing around a bunch of different technologies for the last few years, trying to figure out where to land, what to do, what to be. Emmitt-Nershi is kind of chilling for the time being, and I happened to find out this was going to be the case the day I got a call back from a recruiter to tell me that the interview that I went on a few days earlier wanted to talk to my references...
+
+---
+
+So let's back up a minute. I'd been out on my own (a rather precarious place to be), freelancing whatever web stuff I could get my hands on and playing some really fun bluegrass with ENB. We had our third back in April of last year, possibly the most handsome Grubb boy yet, although they're all pretty much in a league of their own as far as cuteness is concerned. You never realize the ways in which your life is going to change when this whole new-kid thing happens, but the biggest difference this time was that I had absolutely no time or energy to go and scare up new work. We had been at about 80% of bandwidth with 2 kids, and now we were permanently at about 140%. My earnest advice to young parents - two is enough. Maybe if we had family nearby or something, but damn.
+
+So anyway, throughout the summer I'd been fielding emails and phone calls from recruiters, kinda curious what would stick. I got one in August or so asking if I might be interested in a full time gig. I was interested in not having to chase down new work and I was interested in a salary and benefits, so sure, what's the gig? It turned out to be a Drupal gig in the publishing business up here in Jersey, not NYC (where the vast majority of programming jobs up here are).
+
+So to make a long story shorter so that I can finish it, it turns out they're working on a lot of really cool stuff at a very transitional time for the company. It's the publishing business, and perhaps you've heard a bit about the upheaval in that particular business sector lately? Anyway, this company has been around for decades and has a couple dozen different magazines, mostly really technical trade magazines, stuff for which I have no background. They have websites in support of all of those magazines though, which means about 24 websites - half of which had already been moved into a large D7 multisite install, and the other half of which were in the process of being migrated into the same base. 
+
+Of 120 people in the entire company, there are 3 Drupal developers, of which I'm one. There's a "web production" team, but what they actually do is build emails. There's a dedicated designer who has been doing the front end/theming stuff for all these sites that we're rolling out, but she's leaving next week for good. What that means is that I'll probably be put somewhat back in charge of the front end (where I started), but in the meantime I've been working with a dude named Mike who is exactly the guy I've been looking for for the last 4.5 years. He's really good, really patient, really free with his copious knowledge, and seems genuinely stoked to have me on board. And over the last 4 months or so, my skills have started really snowballing. 
+
+I still suck at this stuff, but I'm getting a lot better, and fast. I'm getting pretty comfortable with the Ops part of DevOps, and am even writing some decent Drupal code. I've been working on a contract project for the last 3 months and I can confidently say that it would probably be over my head if not for the stuff I'm being exposed to on this gig. If nothing else it's given me a lot more confidence that I actually know some stuff now. They in house bugtracker is called [Redmine](http://www.redmine.org/), which just happens to be a Rails thing. Nobody in the company knew Rails or Ruby server setup, so it's become mine. It's a huge PITA, but I'm learning a hell of a lot about this tiny little OSS community around Redmine, and how to run a production Ruby app that gets a fair amount of traffic. And the hell that being stuck in a Ruby deployment situation can be. 
+
+I was given a ginormous Dell laptop running Windows 7 as my work computer - the only thing that looked like it might be a hiccup in the awesomeness. Given that there are only 3 real developers in the entire company though, the corporate process and restrictions that I've been afraid of for the last 34 years were pretty much non-existent, at least as far as what I could do with my laptop were concerned. I installed a VM running Ubuntu 12.04 the second day and have been working in Ubuntu for 8 hours a day. This is in addition to working between 10 and 20 hours a week on the contract work that I still have, and unfortunately have to do to make the ends meet (supporting a family of 5 in NJ is expensive as it turns out). I don't think I could keep up a 55 hour week forever, but who knows? Practicing and practicing and practicing in the service of getting really, really good at something has pretty much been what I do since I've been a teenager, so in that regard I'm well equipped.
+
+I finally feel like I'm at the station, though not on the train yet. This is the training ground I've been looking for for 4 years now. My mission for this year is to get really involved with the Drupal community. I didn't get very excited by D7, but D8 is looking like Drupal is finally going to broaden it's scope into a project that encompasses modern development techniques that are going to be useful beyond Drupal's borders - a rather big hangup of mine as far as putting eggs in the Drupal basket is concerned. 
+
+So anyway, that's about it for now. Need to play more music, but I will again some day.
