@@ -5,7 +5,6 @@ tags:
   - life
 alias: 195-1st-set-meditation
 ---
-
 Lots of personal posts to come these next few weeks, I expect. I wanted to take this opportunity during setbreak in Woodstock to set down a few things that I was thinking about during the first set.
 
 

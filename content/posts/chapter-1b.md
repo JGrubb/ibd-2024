@@ -6,8 +6,8 @@ tags:
 aliases:
   - 10-chapter1b
 ---
+## Step 2. Learn to program  
 
-Step 2. Learn to program  
 Here's the thing. Computers don't think like you and me. They think in 1s and 0s. Every programming language ever invented has basically been a way to translate what a human wants to have done into a stream of 1s and 0s to be read by the computer. The translation into binary can happen at a couple of different points along the way from programmers head to users computer screen, but there are basically two different methods for how different languages do this. Some languages, especially the older (pre-1990) ones are "compiled". That's a really byzantine process that basically involves taking the code that you have written, translating it into some 1s and os, linking it with other files in your code, and wrapping it up into an "executable" - a program that you can execute on your computer or whatever. The advantages of this method are thus:  
   
 Some larger applications can have bazillions of lines of code to execute (think about a Windows installer disk). If all of these lines of code were translated into binary at the time you run the application, the app would run so slowly that it'd be useless. This was obviously a big deal before CPU speeds got to be what they are now. Back in the day, the act of compiling was in itself a very time consuming procedure, and still can be today, so by doing it beforehand you save that much time and effort on the part of your computer. You also have the advantage of tuning your application on a lower level with regards to interaction with the Operating System (we'll get to that), thus making it possible for your app to perform much more nimbly. So basically, most of the benefits of compiled languages are in the performance arena.  

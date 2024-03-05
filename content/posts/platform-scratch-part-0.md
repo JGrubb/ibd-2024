@@ -47,12 +47,20 @@ So, back to the program. The development tool set of Platform.sh is entirely bas
 > 
 > In essence branching is making a complete copy of your project at a point in time that you can hack on all you like without disturbing anyone else. If and when the change is ready, you "merge" the code back in to the master branch, test it out to make sure everything is still groovy and then you can release the feature or bug fix to the public.
 > 
+> ```mermaid
+> gitGraph
+>    commit
+>    commit
+>    branch develop
+>    checkout develop
+>    commit
+>    commit
+>    checkout main
+>    merge develop
+>    commit
+>    commit
 > ```
-> ----time---->
-> --main--branch--always--in--a--working--state
->  \         /      \     /
->  -hacking--over--here--freely-
-> ```
+
 
 You can read more about the super basics [here](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) if you wish. For now, all you really need to know is that Git
 
